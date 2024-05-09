@@ -14,7 +14,13 @@ Requirements:
 
 Pre-trained Face,age and gender deteced files like proto.txt,caffeemodels files,.pbtxt file and detection_matrix
 
-Team Members With github ID's":
+Team Members With github ID's": 
+
+Mastan: MASTAN216732
+
+Hema Chandu: Hemachandu890
+
+Abhishikth: ABHISHIKTH735
 
 
 
